@@ -1,6 +1,5 @@
-package com.dev512.growfix.ui.theme
+package com.dev512.growfix.delivery.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

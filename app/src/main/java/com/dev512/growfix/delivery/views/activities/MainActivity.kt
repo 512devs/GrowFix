@@ -1,4 +1,4 @@
-package com.dev512.growfix
+package com.dev512.growfix.delivery.views.activities
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.dev512.growfix.ui.theme.GrowFixTheme
+import com.dev512.growfix.delivery.theme.GrowFixTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

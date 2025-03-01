@@ -1,4 +1,4 @@
-package com.dev512.growfix.ui.theme
+package com.dev512.growfix.delivery.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
